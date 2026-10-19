@@ -1,0 +1,11 @@
+*.db
+*.db-wal
+*.db-shm
+*.xlsx
+*.xlsm
+__pycache__/
+*.pyc
+periods_*.json
+period_audit.txt
+ot_density.txt
+periods_report.txt
